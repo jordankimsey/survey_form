@@ -1,0 +1,121 @@
+
+
+main{
+    font-family: Arial;
+  width: 600px;
+  padding: 20px;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 5, .4);
+  text-align: center;
+  color: white;
+}
+
+html {
+    background: url(https://www.macegroup.com/-/media/mace-dotcom/images/perspectives/2019/190321-airports-of-the-future/sunset-with-a-plane-in-the-background.png?w=800&as=1&hash=A8BA2AC23189F366B13820BFD1E97411A1E50CF0) no-repeat center fixed;
+  background-size: cover;
+  }
+
+#survey-form {
+    flex: center;
+}
+
+form {
+    padding: 75px;
+    border-radius: 75px;
+  position: relative;
+  
+  }
+
+
+.header {
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+.form-group {
+    position: relative;
+    font-size: 20px;
+    margin: auto;
+    bottom: 50px;
+    text-align: left;
+    padding: 10px;
+    line-height: 35px;
+}
+
+.form-group label {
+    padding-: 100px;
+}
+
+.container {
+    margin: 4rem auto;
+    border: 3px solid black;
+  }
+
+  .form-control, #textarea, #dropdown {
+    width: 100%;
+    border-radius: 2px;
+    height: 35px;
+    border-color: black;
+  }
+
+  #pilot, , #suggestions {
+      font-size: 20px;
+      text-align: left;
+      padding: 10px;
+      
+  }
+
+  #pilot {
+      line-height: 0;
+  }
+
+    #pilots {
+      font-size: ;
+      width: 100%;
+      border-radius: 2px;
+      height: 35px;
+      border-color: black;
+  }
+
+  #ad-select {
+    width: 100%;
+    border-radius: 2px;
+    height: 35px;
+    border-color: black;
+}
+   
+
+  .input-radio {
+    display: inline-block;
+    margin-right: 0.625rem;
+    min-height: 2.25rem;
+    min-width: 2.25rem;
+  }
+
+  .input-textarea {
+    min-height: 120px;
+    width: 95%;
+    padding: 0.625rem;
+    
+  }
+
+.input-checkbox {
+    display: inline-block;
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+    
+}
+
+
+
+  button {
+    width: 100%;
+    border-radius: 2px;
+    height: 45px;
+    border-color: black;
+  }
+ 
